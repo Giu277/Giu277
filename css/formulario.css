@@ -1,0 +1,38 @@
+.formulario{
+    margin-top: 40px;
+    margin-left: 425px;
+    background-color: #fff;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.formulario2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+input{
+    color: rgb(133, 132, 132);
+}
+
+label{
+    color: rgb(0, 0, 0);
+}
+
+radio{
+    color: red;
+}
+
+.type{
+    border-radius: 12%
+}
+
+textarea{
+    background-color: rgb(240, 240, 240);
+}
+
+body{
+    background-color: black;
+}
