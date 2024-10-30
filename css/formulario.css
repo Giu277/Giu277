@@ -13,15 +13,15 @@
 
 
 
-input{
+.input{
     color: rgb(133, 132, 132);
 }
 
-label{
+.label{
     color: rgb(0, 0, 0);
 }
 
-radio{
+.radio{
     color: red;
 }
 
@@ -29,10 +29,10 @@ radio{
     border-radius: 12%
 }
 
-textarea{
+.textarea{
     background-color: rgb(240, 240, 240);
 }
 
-body{
+.body{
     background-color: black;
 }
